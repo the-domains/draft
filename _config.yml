@@ -1,7 +1,7 @@
 name: Draft
 favicon: null
-layout_spectrum: 0.2993460204452276
-typography_spectrum: 0.8037526702973992
+layout_spectrum: 0.49393
+typography_spectrum: 1
 title: workingdraft
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#231f20'
+    - '#706d6e'
+    - '#c8c7c7'
+    - '#999798'
   brandStrength: 0.8510706827510148
-  lightness: 0.6244719682727009
-  saturation: 0.10346926446072757
-  rhythmicContrast: 0.5998518434353173
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
