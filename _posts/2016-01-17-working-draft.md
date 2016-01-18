@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: craft. create. repeat.
-datePublished: '2016-01-17T21:32:59.435Z'
-dateModified: '2016-01-17T21:32:56.101Z'
+datePublished: '2016-01-17T21:37:53.260Z'
+dateModified: '2016-01-17T21:37:47.813Z'
 author: []
 related: []
 app_links:
@@ -20,7 +20,7 @@ app_links:
     type: android
     app_name: Tumblr
     package: com.tumblr
-title: working draft
+title: We Work in Draft
 sourcePath: _posts/2016-01-17-working-draft.md
 published: true
 authors: []
@@ -33,6 +33,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Tumble with us.
+# We Work in Draft
 
-http://weworkindraft.tumblr.com/
+[Tumble with us.][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7a3dce-e860-4f99-9e1c-8dce91954792.jpg)
+
+[0]: http://weworkindraft.tumblr.com/
