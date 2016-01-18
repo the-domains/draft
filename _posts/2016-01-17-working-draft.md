@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: craft. create. repeat.
-datePublished: '2016-01-17T21:32:59.407Z'
+datePublished: '2016-01-17T21:32:59.435Z'
 dateModified: '2016-01-17T21:32:56.101Z'
 author: []
 related: []
