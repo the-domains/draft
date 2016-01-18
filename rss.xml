@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[workingdraft]]></title>
+        <description><![CDATA[workingdraft]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jan 2016 21:14:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[APEX & Ruckus Digital Holiday Cards]]></title>
+            <description><![CDATA[<article><h1>APEX & Ruckus Digital Holiday Cards</h1><p>This year I not only had the pleasure of working extensively with APEX and Ruckus Digital. They also let me have fun with their Holiday Card. Solid people. </p></article>]]></description>
+            <link>undefinedapex-and-ruckus-digital-holiday-cards/index.html</link>
+            <guid isPermaLink="false">4567ef22-bc94-4515-a61a-2dfa878a7189</guid>
+            <pubDate>Sun, 17 Jan 2016 21:14:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
