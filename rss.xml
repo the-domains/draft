@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[workingdraft]]></title>
         <description><![CDATA[workingdraft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/draft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 21:14:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 21:19:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/draft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[APEX & Ruckus Digital Holiday Cards]]></title>
-            <description><![CDATA[<article><h1>APEX & Ruckus Digital Holiday Cards</h1><p>This year I not only had the pleasure of working extensively with APEX and Ruckus Digital. They also let me have fun with their Holiday Card. Solid people. </p></article>]]></description>
-            <link>undefinedapex-and-ruckus-digital-holiday-cards/index.html</link>
-            <guid isPermaLink="false">4567ef22-bc94-4515-a61a-2dfa878a7189</guid>
-            <pubDate>Sun, 17 Jan 2016 21:14:44 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8198abc4-0620-4783-aa71-55ff483444e1.png">]]></description>
+            <link>https://thegrid.ai/draft/5913a99a-837c-45d0-9295-ce6659c2e6ef/index.html</link>
+            <guid isPermaLink="false">5913a99a-837c-45d0-9295-ce6659c2e6ef</guid>
+            <pubDate>Sun, 17 Jan 2016 21:18:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
