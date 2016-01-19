@@ -17,7 +17,7 @@ keywords:
   - charitable
   - colour
 description: Life Lists Challenge is a Parkinson Fundraiser allowing people to live out bucket list dreams in support of a meaningful cause.
-datePublished: '2016-01-19T16:16:14.662Z'
+datePublished: '2016-01-19T16:16:14.668Z'
 dateModified: '2016-01-19T16:16:01.325Z'
 author: []
 related: []
